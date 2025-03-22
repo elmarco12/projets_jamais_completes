@@ -1,2 +1,3 @@
 # projets_jamais_completes
-Manque de temps, de volonté 😺
+Une manière pour moi de m'entrainer à coder.
+Je ne finirai jamais ces codes :d
